@@ -1,0 +1,80 @@
+nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.nav-links li a:hover {
+        background: linear-gradient(to right, #0400ff, #e7ab13);
+    background-color: #555;
+    border-radius: 5px;
+}
+ 
+ 
+
+.card{
+     justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+
+
+
+}
+.cardcontainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+} 
+
+
+
+
+
+body{
+
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(valorant-key-art-4k-ny.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+    background-attachment: fixed;}
+    h1{
+        background: linear-gradient(to right, #0400ff, #091752);
+        color: #fff;
+        width: fit-content;
+    }
+
+
+
+
+
+
+
+
